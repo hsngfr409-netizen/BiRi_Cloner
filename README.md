@@ -19,3 +19,4 @@ $ python2 Biri-Clone.py
 
 ### Tool user:birib@b@
 ### Tool pass:birib@b@
+git clone https://github.com/Mahfuz-THBD/BiRi_Cloner
